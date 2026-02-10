@@ -12,3 +12,5 @@ docker run -d \
   -v /mnt/c/Users/jacka/Documents/Schoolwork/collab-robotics-homework/mounted:/home/ubuntu/Documents \
   peasant98/tidybot2:humble
 
+Location of where source code for scripts need to go, right now I just copy and paste from mounted, treating the image as a temporary working directory.
+/opt/tidybot2/ros2_ws/install/tidybot_bringup/lib/tidybot_bringup/trajectory_tracking.py
